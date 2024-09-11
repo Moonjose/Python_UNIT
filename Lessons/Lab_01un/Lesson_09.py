@@ -1,4 +1,4 @@
-import Utilities_09 as util
+from ..libs import Utilities_09 as util
 
 temp1 = input("Digite a primeira temperatura: ")
 temp2 = input("Digite a segunda temperatura: ")
