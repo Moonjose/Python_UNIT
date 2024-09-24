@@ -1,0 +1,24 @@
+Jose[O] (0 pts) vs Pedro[X] (0 pts)
+-------------------
+O | O | X
+X | X | O
+O | O | X
+
+Jose[O] (1 pts) vs Pedro[X] (0 pts)
+-------------------
+O | X |  
+O | X |  
+O |   |  
+
+Jose[O] (1 pts) vs Pedro[X] (1 pts)
+-------------------
+X | O | O
+  | X |  
+O |   | X
+
+Jose[O] (2 pts) vs Pedro[X] (1 pts)
+-------------------
+O | X | X
+O | O |  
+O |   | X
+
